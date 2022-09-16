@@ -1,0 +1,17 @@
+<ui>
+<button>
+    <value>Click Me</value>
+    <X>100</X>
+    <Y>100</Y>
+</button>
+<textbox>
+    <value>Text Box</value>
+    <X>100</X>
+    <Y>200</Y>
+</textbox>
+<editbox>
+    <value>Edit Box</value>
+    <X>100</X>
+    <Y>300</Y>
+</editbox>
+</ui>
